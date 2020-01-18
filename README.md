@@ -1,0 +1,2 @@
+# DiceGame
+Highest roll wins
